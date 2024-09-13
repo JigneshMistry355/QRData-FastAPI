@@ -2,3 +2,6 @@ main.py
 sql_app.db
 uploads
 FastAPI_Env
+
+# Do not ignore sql_app/main.py
+!sql_app/main.py
